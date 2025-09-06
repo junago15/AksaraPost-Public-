@@ -1,4 +1,3 @@
-<script>
 // Updated product data from CSV
 const products = [
     { id: 21, name: 'Nasi Goreng', price: 10000, category: 'makanan', barcode: '1234567890143', image: 'https://vhurelhciwirynuqpnjt.supabase.co/storage/v1/object/public/aksara/image/Nasgor.webp?w=400&h=400&fit=crop&crop=center', stock: 18 },
@@ -1057,4 +1056,3 @@ function viewTransactionReceipt(receiptNumber) {
     document.getElementById('receiptModal').classList.remove('hidden');
     document.getElementById('receiptModal').classList.add('flex');
 }
-    </script>
