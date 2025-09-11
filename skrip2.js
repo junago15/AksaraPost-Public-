@@ -1,4 +1,4 @@
-// Updated product data from CSV
+// Updated product data from CSVVV
 const products = [
     { id: 21, name: 'Nasi Goreng', price: 10000, category: 'makanan', barcode: '1234567890143', image: 'https://vhurelhciwirynuqpnjt.supabase.co/storage/v1/object/public/aksara/image/Nasgor.webp?w=400&h=400&fit=crop&crop=center', stock: 18 },
     { id: 22, name: 'Nasi Katsu', price: 10000, category: 'makanan', barcode: '1234567890144', image: 'https://vhurelhciwirynuqpnjt.supabase.co/storage/v1/object/public/aksara/image/Ayam%20Katsu.webp?w=400&h=400&fit=crop&crop=center', stock: 15 },
